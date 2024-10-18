@@ -1,0 +1,63 @@
+html body {
+  background-color: #dcf9fa;
+}
+
+.nav-link:hover {
+  color: black;
+  font-size: 1.1rem;
+  background-color: rgb(104, 203, 233);
+  border-radius: 30px;
+  transition-delay: 0.5ms;
+}
+
+.dropdown-menu {
+  background-color: #f0efc7d7;
+}
+
+.btn {
+  background-color: whitesmoke;
+  border-color: red;
+  color: black;
+}
+
+.btn.btn:hover {
+  background-color: rgb(243, 163, 163);
+  color: black;
+  border-color: white;
+}
+
+.navbar-brand:hover {
+  transform: rotate(-70deg);
+}
+
+.card {
+  align-items: center;
+  display: flex;
+  background-color: rgb(253, 241, 201);
+  border-color: red;
+  justify-content: flex-start;
+}
+
+.accordion-button {
+  align-items: center;
+  display: flex;
+  background-color: rgb(172, 214, 248);
+  border-color: red;
+  justify-content: space-around;
+}
+
+.accordion-body {
+  flex-direction: ;
+  align-items: center;
+  display: flex;
+  background-color: rgb(172, 172, 172);
+  border-color: white;
+  justify-content: space-around;
+}
+
+.registrate {
+  position: absolute;
+  left: -1;
+  top: 20px;
+  width: 250px;
+}
